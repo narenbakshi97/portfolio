@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="204" width="302" y="60" x="138" stroke-width="19" stroke="#000000" fill="#ffffff"/>
+  <rect stroke="#000000" id="svg_3" height="32" width="23" y="266" x="270" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="19" fill="#000000"/>
+  <rect stroke="#000000" id="svg_4" height="9" width="226.000006" y="300" x="165.999996" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#000000"/>
+  <text font-weight="bold" stroke="#000000" transform="matrix(1.1315272318797736,0,0,1.3988345934199058,1.8526985943483965,-46.17741807430866) " xml:space="preserve" text-anchor="middle" font-family="Monospace" font-size="24" id="svg_5" y="126.061308" x="254.976058" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">&lt;Hello, World!&gt;</text>
+  <text font-weight="normal" xml:space="preserve" text-anchor="middle" font-family="Monospace" font-size="24" id="svg_6" y="185" x="295" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#000000" fill="#000000">I am Naren Bakshi.</text>
+  <rect stroke="#000000" id="svg_7" height="84.000003" width="41.999998" y="284.999997" x="393.000001" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="7" fill="#ffffff"/>
+  <ellipse stroke="#ffffff" rx="0.5" id="svg_8" cy="385" cx="427.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="10" fill="#ffffff"/>
+  <ellipse stroke="#fcfcfc" ry="0.799999" rx="0.600001" id="svg_11" cy="367.999997" cx="415.000002" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="4" fill="#ffffff"/>
+  <ellipse id="svg_12" stroke="#fcfcfc" ry="0.799999" rx="0.600001" cy="284.399987" cx="430.400013" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffffff"/>
+  <rect id="svg_15" height="263" width="120" y="53" x="469" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="7" stroke="#000000" fill="#3f3f3f"/>
+  <rect id="svg_16" height="15" width="85" y="113" x="487" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="4" stroke="#000000" fill="#ffffff"/>
+  <ellipse ry="7" rx="8" id="svg_17" cy="69" cx="573" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#000000" fill="#ffffff"/>
+  <rect stroke="#000000" id="svg_23" height="162" width="128.999988" y="248.999994" x="492.00001" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="15" fill="#ffffff"/>
+  <ellipse stroke="#fcfcfc" id="svg_24" ry="3.299984" rx="2.599946" cy="411.49997" cx="555.999793" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="4" fill="#ffffff"/>
+  <ellipse stroke="#fcfcfc" id="svg_25" ry="0.800019" rx="0.899842" cy="250.000015" cx="610.499754" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="4" fill="#ffffff"/>
+  <text id="svg_26" font-weight="bold" stroke="#000000" transform="matrix(0.570527947232231,0,0,0.81576486869134,260.87307547542184,71.68546199822742) " xml:space="preserve" text-anchor="middle" font-family="Monospace" font-size="24" y="273.625584" x="527.825117" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">&lt;Hello, World!&gt;</text>
+  <text stroke="#000000" transform="matrix(0.4821393191814422,0,0,0.94009219831036,261.72055170685053,5.412432157224153) " id="svg_28" font-weight="normal" xml:space="preserve" text-anchor="middle" font-family="Monospace" font-size="24" y="356.995096" x="617.637366" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#000000">I am Naren Bakshi.</text>
+  <rect stroke="#000000" transform="rotate(90.84252166748047 92,338) " id="svg_29" height="121.584178" width="74.525888" y="277.207908" x="54.737055" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="10" fill="#ffffff"/>
+  <ellipse stroke="#fcfcfc" id="svg_30" ry="1.799986" rx="1.099945" cy="337.5" cx="152.500003" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="4" fill="#ffffff"/>
+  <ellipse stroke="#fcfcfc" id="svg_31" ry="0.299987" rx="0.599945" cy="310" cx="30.000007" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="4" fill="#ffffff"/>
+  <text id="svg_32" font-weight="bold" stroke="#000000" transform="matrix(0.49179120316084635,0,0,1.0612678931292534,44.360610318469675,39.30582213286293) " xml:space="preserve" text-anchor="middle" font-family="Monospace" font-size="24" y="271.868171" x="96.892045" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">&lt;Hello, World!&gt;</text>
+  <text stroke="#000000" transform="matrix(0.4628540361201523,0,0,0.7119047905717579,36.00768281671336,92.58808600647103) " id="svg_33" font-weight="normal" xml:space="preserve" text-anchor="middle" font-family="Monospace" font-size="24" y="371.688962" x="126.390021" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#ffffff">I am Naren Bakshi.</text>
+  <text stroke="#000000" transform="matrix(0.5168277885846351,0,0,0.722222238779068,204.14354123644225,86.88888418674469) " font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="Monospace" font-size="24" id="svg_34" y="310" x="407" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#000000">Hello</text>
+  <text font-weight="bold" stroke="#000000" transform="matrix(0.45178538508099503,0,0,0.6231527202969112,210.04485139675424,117.4581248771969) " xml:space="preserve" text-anchor="middle" font-family="Monospace" font-size="24" id="svg_35" y="344.260869" x="454.731753" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="#000000">World!</text>
+ </g>
+</svg>

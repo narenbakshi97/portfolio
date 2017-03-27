@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<svg width="475" height="475" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <line stroke="#007fff" opacity="0.75" id="svg_1" y2="89" x2="89.000001" y1="439" x1="30" stroke-width="21" fill="none"/>
+  <line stroke="#007fff" opacity="0.75" id="svg_2" y2="17.000002" x2="205.999997" y1="100" x1="80" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="20" fill="none"/>
+  <line opacity="0.75" id="svg_3" y2="453" x2="101" y1="433" x1="21" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="16" fill="none" stroke="#007fff"/>
+  <line opacity="0.75" id="svg_4" y2="460" x2="90" y1="140" x1="160" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="21" fill="none" stroke="#007fff"/>
+  <line stroke="#007fff" opacity="0.75" id="svg_6" y2="460" x2="240" y1="136.999993" x1="156.999998" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="20" fill="none"/>
+  <line opacity="0.75" id="svg_7" y2="450" x2="240" y1="430" x1="320" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="16" fill="none" stroke="#007fff"/>
+  <line stroke="#007fff" opacity="0.75" id="svg_8" y2="30" x2="466.999998" y1="435.000005" x1="310" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="20" fill="none"/>
+  <line stroke="#007fff" opacity="0.75" id="svg_9" y2="90" x2="350" y1="34" x1="467.999996" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="20" fill="none"/>
+  <line stroke="#007fff" opacity="0.75" id="svg_10" y2="84.000006" x2="356.000004" y1="330" x1="280" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="20" fill="none"/>
+  <line stroke="#007fff" y1="7.999998" opacity="0.75" id="svg_11" y2="341.999996" x2="279.000001" x1="208.999999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="20" fill="none"/>
+  <line stroke="#007fff" opacity="0.75" id="svg_12" y2="110" x2="200" y1="148" x1="156" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="20" fill="none"/>
+  <line stroke="#007fff" opacity="0.75" id="svg_13" y2="101.999998" x2="193.999996" y1="340" x1="280" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="21" fill="none"/>
+  <line stroke="#007fff" opacity="0.75" id="svg_14" y2="240.999998" x2="250.000005" y1="87.000002" x1="354.999999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="16" fill="none"/>
+  <line stroke="#007fff" opacity="0.75" id="svg_15" y2="323.000007" x2="111.999996" y1="454" x1="240.999996" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="20" fill="none"/>
+  <polyline fill="none" stroke="#007fff" stroke-width="20" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="round" opacity="0.5" points="-289,106 " id="svg_5"/>
+  <rect fill="none" stroke="#007fff" stroke-width="20" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.5" x="490" y="260" width="0" height="0" id="svg_16"/>
+  <rect fill="none" stroke="#007fff" stroke-width="20" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.5" x="380" y="410" width="0" height="0" id="svg_17"/>
+  <rect fill="none" stroke="#007fff" stroke-width="20" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.5" x="-110" y="240" width="0" height="0" id="svg_18"/>
+  <rect fill="none" stroke="#007fff" stroke-width="20" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.5" x="90" y="80" width="0" height="0" id="svg_19"/>
+  <rect fill="none" stroke="#007fff" stroke-width="20" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.5" x="-30" y="240" width="0" height="0" id="svg_20"/>
+ </g>
+</svg>
